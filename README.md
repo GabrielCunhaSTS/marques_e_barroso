@@ -104,7 +104,7 @@ A plataforma foi programada com foco em Mobile-First, garantindo leitura perfeit
 
 
 
-## 🚀 Prova de Conceito Finalizada
+🚀 **Prova de Conceito Finalizada**
 
 
 
@@ -120,7 +120,7 @@ Projeto estruturado, testado e pronto para apresentação e implantação no cli
 
 
 
-## Gabriel da Cunha Almeida Santos
+### Gabriel da Cunha Almeida Santos
 
 
 
@@ -128,7 +128,7 @@ Desenvolvedor de software focado na **construção de produtos digitais robustos
 
 
 
-## Principais tecnologias
+### Principais tecnologias
 
 
 
