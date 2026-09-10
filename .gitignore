@@ -1,0 +1,24 @@
+# dependências
+/node_modules
+/.pnp
+.pnp.js
+
+# testes
+/coverage
+
+# produção (builds do Next.js)
+/.next/
+/out/
+
+# produções de deploy / misc
+.DS_Store
+*.pem
+
+# arquivos de ambiente locais (muito importante para segurança!)
+.env*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
